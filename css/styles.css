@@ -130,6 +130,8 @@
     min-width: 1200px;
 }
 
+
+
 .header .container {
     display: flex;
     align-items: center;
@@ -239,6 +241,17 @@
     font-size: var(--primary-font-size);
     line-height: 1.88;
     letter-spacing: 0.06em;
+}
+
+/* Overlay картинка в HERO*/
+.overlay {
+    max-width: 1600px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    outline: 1px solid black;
+    background-image:linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
+    url('../images/herophoto.jpg');
 }
 
     /*Переваги*/
