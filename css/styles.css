@@ -184,8 +184,13 @@
 
 /* Зміна кольлру  иконки телефон та пошта*/
 .icon-envelope {
+    fill: #757575;
 
 }
+.icon-envelope:hover {
+    fill: #2196F3;
+}
+
 
 /* Стиль для контактів*/
 .header .contact-list .link {
