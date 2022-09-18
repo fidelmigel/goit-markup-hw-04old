@@ -182,6 +182,11 @@
     color: var(--primary-accent-color);
 }
 
+/* Зміна кольлру  иконки телефон та пошта*/
+.icon-envelope {
+
+}
+
 /* Стиль для контактів*/
 .header .contact-list .link {
     font-weight: var(--primary-font-weight);
@@ -253,6 +258,12 @@
     background-image:linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
     url('../images/herophoto.jpg');
 }
+
+
+  
+  
+
+
 
     /*Переваги*/
 
